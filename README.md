@@ -31,8 +31,12 @@ After downloading the code, restart both devices by holding Ctrl+R. The Wireless
   * `mine(int)` - Mines a 2x1 tunnel
     * Example `mine(30)`
 
-## Coming Soon
+## Coming Soon (in order of priority)
   * Allow for messages without `()` such as `mine 30`
+  * Support multi-threading on both the turtle and tablet
+  * Support bi-directional communication (turtle sending back info to tablet)
   * Fuel Support (via Ender Tank)
   * Deposit Support (via Ender Chest)
   * Tree Harvester
+  * Scan Ender Chest (searches all frequencies for items)
+  * Scan Ender Tank (searches all frequencies for liquids)
